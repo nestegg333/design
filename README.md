@@ -6,3 +6,6 @@
 
 ### 03/31/16:
 * added user settings, full payment history, and change password screens.
+
+### 04/02/16:
+* added onboarding screens, added some shading to buttons
